@@ -14,7 +14,7 @@ const About = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://www.linkedin.com/in/phuc-le-vinh/'
+            href='https://www.facebook.com/profile.php?id=100018205177111'
           >
             <i className='fab fa-linkedin'></i>
             <span>Linkedin</span>
@@ -22,7 +22,7 @@ const About = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://github.com/phuclevinh2000/Lofi-website'
+            href='https://github.com/vietIT2001'
           >
             <i className='fab fa-github'></i>
             <span>GitHub</span>
@@ -34,7 +34,7 @@ const About = () => {
         </div>
       </nav>
       <section className='description'>
-        <h1>Welcome to the auto genrate lofi music made by Phuc Le.</h1>
+        <h1>Welcome to the auto genrate lofi music made by Vit bau troi.</h1>
         <h1>The purpose of this application is for learning</h1>
         <h1>This is a web application inspired by Lofi.co.</h1>
         <h1>
