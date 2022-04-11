@@ -25,7 +25,7 @@ const Login = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://www.linkedin.com/in/phuc-le-vinh/'
+            href='https://www.instagram.com/uuvjt/'
           >
             <i className='fab fa-linkedin'></i>
             <span>Linkedin</span>
@@ -33,7 +33,7 @@ const Login = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            href='https://github.com/phuclevinh2000/Lofi-website'
+            href='https://github.com/vietIT2001'
           >
             <i className='fab fa-github'></i>
             <span>GitHub</span>
@@ -45,7 +45,7 @@ const Login = () => {
         </div>
       </nav>
       <section className='container__section'>
-        <h1>Welcome to the auto genrate lofi music made by Phuc Le.</h1>
+        <h1>Welcome to the auto genrate lofi music made by Vit bau troi.</h1>
         <h1>Login to explore the feature</h1>
         <div className='form'>
           <div className='icon' onClick={signInHandler}>
