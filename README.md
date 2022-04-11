@@ -10,7 +10,7 @@ This project is a clone of Lofi.co and adding some function lick todolist, count
 
 # Demo
 
-[Demo](https://lofiphucle.netlify.app/)
+[Demo](https://lofivitbautroi.netlify.app/)
 
 ## How to build and run
 
@@ -20,7 +20,7 @@ Download and install Node.js from this link https://nodejs.org/en/download/
 
 ### 2. Clone or download this repo.
 
-On your terminal or cmd, type: `git clone git@github.com:phuclevinh2000/Lofi-website.git`
+On your terminal or cmd, type: `git clone https://github.com/vietIT2001`
 
 . On your command line, navigate to root folder and install: `npm install`
 
