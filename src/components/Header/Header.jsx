@@ -55,7 +55,7 @@ const Header = () => {
         <a
           target='_blank'
           rel='noreferrer'
-          href='https://github.com/phuclevinh2000/Lofi-website'
+          href='https://github.com'
         >
           <i className='fab fa-github'></i>
           <span>GitHub</span>
